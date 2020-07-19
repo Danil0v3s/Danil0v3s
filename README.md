@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on @PeacockTV
+📫 How to reach me: daniloleemes@hotmail.com
+😄 Pronouns: He/Him
