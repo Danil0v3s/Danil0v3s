@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on @PeacockTV
+
 📫 How to reach me: daniloleemes@hotmail.com
+
 😄 Pronouns: He/Him
