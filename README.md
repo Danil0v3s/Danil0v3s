@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on @PeacockTV
+🔭 I’m currently working on :peacock: [@PeacockTV](https://twitter.com/peacockTV) and maitaining [UnityRO](https://github.com/guilhermelhr/unityro)
 
-📫 How to reach me: daniloleemes@hotmail.com
+📫 How to reach me [@Danil0v3s](https://twitter.com/Danil0v3s)
+
+🤔 I’m looking for help with [UnityRO](https://github.com/guilhermelhr/unityro)
 
 😄 Pronouns: He/Him
