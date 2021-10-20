@@ -1,23 +1,11 @@
 ### Hi there 👋
 
-<!--
-**daniloleemes/daniloleemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:briefcase: &nbsp;I’m currently working on :peacock: [@PeacockTV](https://twitter.com/peacockTV)
 
-Here are some ideas to get you started:
+:magic_wand: &nbsp;Maintainer of [UnityRO](https://github.com/guilhermelhr/unityro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on :peacock: [@PeacockTV](https://twitter.com/peacockTV) and maitaining [UnityRO](https://github.com/guilhermelhr/unityro)
+📫 &nbsp;How to reach me [@Danil0v3s](https://twitter.com/Danil0v3s)
 
-📫 How to reach me [@Danil0v3s](https://twitter.com/Danil0v3s)
+🤔 &nbsp;I’m looking for help with [UnityRO](https://github.com/guilhermelhr/unityro)
 
-🤔 I’m looking for help with [UnityRO](https://github.com/guilhermelhr/unityro)
-
-😄 Pronouns: He/Him
+😄 &nbsp;Pronouns: He/Him
