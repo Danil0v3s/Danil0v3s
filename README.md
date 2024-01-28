@@ -1,11 +1,13 @@
-### Hi there 👋
+# Hey, I'm Danilo 👋
 
-:briefcase: &nbsp;I’m currently working on :peacock: [@PeacockTV](https://twitter.com/peacockTV)
+I'm a mobile developer based in Portugal.
 
-:magic_wand: &nbsp;Maintainer of [UnityRO](https://github.com/guilhermelhr/unityro)
+* ✉️ Mostly using my free time to develop things unrelated to work.
+* 🕊 Reach me at Twitter [@Danil0v3s](https://twitter.com/Danil0v3s)
 
-📫 &nbsp;How to reach me [@Danil0v3s](https://twitter.com/Danil0v3s)
+<hr />
 
-🤔 &nbsp;I’m looking for help with [UnityRO](https://github.com/guilhermelhr/unityro)
-
-😄 &nbsp;Pronouns: He/Him
+I've been working on:
+* [@PeacockTV](https://twitter.com/peacockTV) - NBCU's streaming app
+* [UnityRO](https://github.com/guilhermelhr/unityro) — A complete remake of the unfamous nord end of the world event
+* rApollo (Link soon) - A revamp of [rAthena](https://github.com/rathena/rathena) using navmeshes, dependency injection, kibana, elastic, lua scripting and whatever else I discover along the way
