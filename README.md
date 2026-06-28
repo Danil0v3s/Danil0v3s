@@ -10,4 +10,3 @@ I'm a mobile developer based in Portugal.
 I've been working on:
 * [@PeacockTV](https://twitter.com/peacockTV) - NBCU's streaming app
 * [UnityRO](https://github.com/guilhermelhr/unityro) — A complete remake of the unfamous nord end of the world event
-* rApollo (Link soon) - A revamp of [rAthena](https://github.com/rathena/rathena) using navmeshes, dependency injection, kibana, elastic, lua scripting and whatever else I discover along the way
